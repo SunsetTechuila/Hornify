@@ -1,0 +1,23 @@
+{
+  "name": "hornify",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "spicetify-creator",
+    "build-local": "spicetify-creator --out=dist --minify",
+    "watch": "spicetify-creator --watch"
+  },
+  "author": "SunsetTechuila",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
+    "eslint": "^8.44.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^3.0.0",
+    "spicetify-creator": "^1.0.13",
+    "typescript": "^5.1.6"
+  }
+}

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Hornify",
+        "description": "Replaces random words with random porn tags",
+        "main": "/dist/hornify.js",
+        "preview": "/assets/hornify-1x1.png",
+        "readme": "README.md"
+    }
+]
